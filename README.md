@@ -1,4 +1,4 @@
-## Welcome to Min's Blog
+## Hello, World
 
 Testing new page [test](./test.md)
 
